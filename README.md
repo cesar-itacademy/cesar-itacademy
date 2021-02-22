@@ -2,7 +2,7 @@
 <h3>A passionate junior frontend developer from Barcelona</h3>
 
 
-- 🔭 I’m currently working at freelance.
+- 🔭 I’m currently working as a freelance.
 - 🌱 I’m currently learning **React.JS** 
 - 👯 I’m looking to collaborate on **Open Source** and/or **Hotel Revenue Management** projects
 - 💬 I'm mostly active within the **React.JS** and **JavaScript** communities
