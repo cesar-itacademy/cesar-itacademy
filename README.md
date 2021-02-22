@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cesar</h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
+<h1 align="center">Hola! 👋 Hi! I'm Cesar</h1>
+<h3 align="center">A passionate junior frontend developer from Barcelona</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently working at freelance.
+- 🌱 I’m currently learning **React.JS** 
+- 👯 I’m looking to collaborate on **Open Source** and/or **Hotel Revenue Management** projects
+- 💬 I'm mostly active within the **React.JS** and **JavaScript** communities
 
 
 <h3 align="left">Languages and Tools:</h3>
