@@ -1,5 +1,5 @@
-<h1 align="center">Hola! 👋 Hi! I'm Cesar</h1>
-<h3 align="center">A passionate junior frontend developer from Barcelona</h3>
+<h1>Hola! 👋 Hi! I'm Cesar</h1>
+<h3>A passionate junior frontend developer from Barcelona</h3>
 
 
 - 🔭 I’m currently working at freelance.
